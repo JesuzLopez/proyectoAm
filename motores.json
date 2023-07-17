@@ -1,0 +1,109 @@
+{
+    "status":"success",
+    "items": [{
+        "id": 1,
+        "title": "Ls1 5.7L",
+        "price": 1000,
+        "image": "https://i0.wp.com/www.musclecarsandtrucks.com/wp-content/uploads/2021/12/X03PT-8C012.jpg?fit=1200%2C960&ssl=1",
+        "category": "Chevrolet"
+    },
+    {
+        "id": 2,
+        "title": "Ls2 6.0L",
+        "price": 1200,
+        "image": "https://www.motortrend.com/uploads/f/8652533.jpg",
+        "category": "Chevrolet"
+    },
+    {
+        "id": 3,
+        "title": "Yenko 427 7.0L",
+        "price": 4500,
+        "image": "https://www.americanmusclecarmuseum.com/files/cars/1969-chevrolet-camaro-yenko-29.jpg",
+        "category": "Chevrolet"
+    },
+    {
+        "id": 4,
+        "title": "ZZ632 10.3L",
+        "price": 37000,
+        "image": "https://hips.hearstapps.com/hmg-prod/images/chevrolet-performance-zz632-crate-engine-1634805768.jpg?crop=1.00xw:0.928xh;0,0.0241xh&resize=1200:*",
+        "category": "Chevrolet"
+    },
+    {
+        "id": 5,
+        "title": "GM Lt4 6.2 Supercharged",
+        "price": 2500,
+        "image": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/performance/powertrain/2017-engines/lt4/01-images/cp-2017-engines-detail-lt4-tech-specs-1280x720.jpg",
+        "category": "Chevrolet"
+    },
+    {
+        "id": 6,
+        "title": "Hemi 5.7L",
+        "price": 1500,
+        "image": "https://www.ram.com/content/dam/cross-regional/nafta/ramtrucks/es_mx/2023/ram-hemi-sport-2023/capacidad-y-desempeno/ram-hemi-sport-my23-desempe%C3%B1o-highlight-motor.jpg",
+        "category": "RAM"
+    },
+    {
+        "id": 7,
+        "title": "Hemi 6.1L SRT",
+        "price": 900,
+        "image": "https://autoparteshidalgo.com/cdn/shop/products/ynnn_d42fdd1d-a7d7-4b6e-8e2a-7a1351443c65.jpg?v=1617820283",
+        "category": "RAM"
+    },
+    {
+        "id": 8,
+        "title": "Hellcat Hemi 6.4L SuperCharged",
+        "price": 2500,
+        "image": "https://latam-editorial.pxcrush.net/soloautos/general/editorial/hellcrate-807-hp.png?width=825&height=550&pxc_method=crop",
+        "category": "RAM"
+    },
+    {
+        "id": 9,
+        "title": "Hellephant 426 Supercharged 7.0L",
+        "price": 30000,
+        "image": "https://img.remediosdigitales.com/88358e/hellephant-crate-engine-1/1366_2000.jpg",
+        "category": "RAM"
+    },
+    {
+        "id": 10,
+        "title": "Hemi SRT Hellcat 6.2L Supercharged",
+        "price": 2500,
+        "image": "https://hips.hearstapps.com/es.h-cdn.co/cades/contenidos/47382/motor-dodge-demon.jpg",
+        "category": "RAM"
+    },
+    {
+        "id": 11,
+        "title": "302 Boss 5.0L",
+        "price": 3500,
+        "image": "https://cdn.carbuzz.com/gallery-images/840x560/7000/900/7959.jpg",
+        "category":"Ford"
+    },
+    {
+        "id":12,
+        "title":"PoweStroke Diesel 7.3L",
+        "price": 3500,
+        "image":"https://dieseliq.com/wp-content/uploads/2020/12/Ford-7.3L-Powerstroke.jpg",
+        "category":"Ford"
+    },
+    {
+        "id":13,
+        "title":"Shelby 5.2L",
+        "price": 2000,
+        "image":"https://autoentusiastas.com.br/ae/wp-content/uploads/2015/06/MotorV8-MustangShelbyGT350.jpg",
+        "category":"Ford"
+    },
+    {
+        "id":14,
+        "title":"Coyote 5.0L",
+        "price": 1800,
+        "image":"https://www.motortrend.com/uploads/sites/21/2011/05/1105sr-01-z-ford-coyote-motor-5-v8-.jpg",
+        "category":"Ford"
+    },
+    {
+        "id":15,
+        "title":"PowerStroke Diesel 6.7L",
+        "price": 2800,
+        "image":"https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2009/08/Ford-67-Liter-Power-Stroke1-626x382.jpg",
+        "category":"Ford"
+    }
+  ]
+}
